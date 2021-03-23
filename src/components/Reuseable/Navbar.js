@@ -59,11 +59,11 @@ export default class Navbar extends Component {
                             )
                         })}
                         
-                        <li className="nav-item">
-                           <Link to="/" className="nav-link text-white">
-                               About Us
-                           </Link>
-                        </li>
+                        
+
+
+
+                        
                         <li className="nav-item">
                            <Link to="/" className="nav-link text-white">
                                <FaCartArrowDown className="cart-icon"/>

@@ -12,7 +12,7 @@ export default function DualInfoblock({ heading }) {
             <div className="row">
               <div className="col-8 mx-auto">
                   <p className="lead text-white mb-5">
-                  accumsan lacus vel facilisis volutpat est velit egestas dui id ornare arcu odio ut sem nulla pharetra diam sit amet nisl suscipit adipiscing bibendum est ultricies integer quis auctor elit sed vulputate mi sit amet mauris commodo quis imperdiet massa tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin libero
+                  Personal Mission Statement - "I believe in making a impact" Working with this goal and Bring out the power of teams. Engineer with strong fundamentals in Data Structures and Algorithms. Deepanshu will graduate with a Bachelor's Degree in Information technology in May 2022. He has taken up courses in Data structure and algorithms, Web development(Node.js), Database management system, Object-Oriented Software Engineering, and Operating system and loves to work on different technology.
                   </p>
               </div>
               <div className="col-4">
@@ -20,8 +20,8 @@ export default function DualInfoblock({ heading }) {
                <div className="card bg-dark" >
                  <img className="card-img-top" src="https://images.pexels.com/photos/1981443/pexels-photo-1981443.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="image goes here"/>
                    <div className="card-body">
-                       <h5 className="card-title text-success">Just click photos</h5>
-                       <p className="card-text text-white">eget duis at tellus at urna condimentum mattis pellentesque id nibh tortor id aliquet lectus proin nibh nisl condimentum id venenatis a condimentum vitae sapien pellentesque habitant morbi tristique senectus</p>
+                       <h5 className="card-title text-success">Just computer geek</h5>
+                       <p className="card-text text-white">Computer science, the study of computers and computing, including their theoretical and algorithmic foundations, hardware and software, and their uses for processing information. The discipline of computer science includes the study of algorithms and data structures, computer and network design, modeling data and information processes, and artificial intelligence.</p>
                        <a href="#" className="btn btn-warning btn-block">
                        {heading}
                        </a>
